@@ -1,2 +1,2 @@
 # dexter
-Android DCL wrapper
+Android Dynamic Class Loading wrapper
